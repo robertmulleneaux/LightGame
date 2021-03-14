@@ -6,7 +6,7 @@ Submitted by: **Robert Mulleneaux**
 
 Time spent: **5** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (https://glitch.com/robertmulleneaux/LightGame)
 
 ## Required Functionality
 
@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-[](https://i.imgur.com/bUnJ3Kg.gif)
+(https://i.imgur.com/bUnJ3Kg.gif)
 
 
 
