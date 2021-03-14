@@ -6,7 +6,7 @@ Submitted by: **Robert Mulleneaux**
 
 Time spent: **5** hours spent in total
 
-Link to project: (https://glitch.com/robertmulleneaux/LightGame)
+Link to project: (https://github.com/robertmulleneaux/LightGame)
 
 ## Required Functionality
 
